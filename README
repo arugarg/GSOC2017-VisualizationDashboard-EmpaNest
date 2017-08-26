@@ -1,1 +1,1 @@
-INITIAL WIP
+Aim : The aim of this project is to develop a visualization dashboard based on node-red and javascript charting library Highcharts which will have a connection to the Microsoft SQL Database and OPC UA server and can be integrated into a Website. The trend data is logged into a SQL Database in the NEST-Cloud, which is accessible for researchers and technicians from all over the world. And the live data which will be accessible via OPC UA server. To bring the big data to life it is essential to have attractive visualization charts.
