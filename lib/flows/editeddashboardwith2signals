@@ -1,0 +1,1 @@
+[{"id":"a6c27572.a47b38","type":"MSSQL","z":"134033fa.c8fdfc","mssqlCN":"9534cec8.3799d","name":"NEST","query":"","outField":"payload","x":251,"y":368,"wires":[["d039afba.ec8c1","f4de5b1c.bbee88"]]},{"id":"9534cec8.3799d","type":"MSSQL-CN","z":"","name":"NEST","server":"NEST-SQL-HIST","encyption":false,"database":"NestTest"}]
