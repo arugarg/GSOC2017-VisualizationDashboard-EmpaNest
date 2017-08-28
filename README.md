@@ -1,11 +1,11 @@
 
-Google Summer of Code 2017 : Project Repository : Database Visualization Dashboard for Urban Energy Systems Laboratory, Empa
-Project Title : Visualization Dashboard for Empa-NEST
-Mentors : Fricker Reto , Philipp Heer
-By : Arushee Garg
+Google Summer of Code 2017 : Project Repository   
+Organization : Urban Energy Systems Laboratory,Empa    
+Project Title : Open Source Visualization Dashboard for Empa-NEST using Node-Red  
+Mentors : Fricker Reto , Philipp Heer  
+By : Arushee Garg  
 ----------------------------------------------------------
-Open source visualization dashboard for Empa-NEST: using Node-red
-Github Link : https://github.com/arugarg/GSOC2017-VisualizationDashboard-EmpaNest
+Github Link : https://github.com/arugarg/GSOC2017-VisualizationDashboard-EmpaNest  
 ----------------------------------------------------------
 Introduction 
 
@@ -15,30 +15,30 @@ Data on the Empa NEST  is highly diverse and rapidly growing. Currently, this da
 Node Red is a recent programming tool developed by IBM for wiring together hardware devices, APIs and online services in new and interesting ways. Will be implementing Node-red with libraries- SQL node connection, OPC - UA server, Dashboard UI nodes , http nodes and  javascript charting library Highcharts for creating the visualization dashboard and MS SQL querying for plugging in the data.
 
 ---------------------------------------------------------
-The Dashboard can be accessed at the local where node-red runs or at http://192.168.223.70:1880/ui/#/0
+The Dashboard can be accessed at the local where node-red runs or at http://192.168.223.70:1880/ui/#/0  
 
-<img width="1678" alt="screen shot 2017-08-28 at 5 09 44 am" src="https://user-images.githubusercontent.com/23009481/29770089-eee23464-8bb2-11e7-9661-10ad20d4dc14.png">
+<img width="1678" alt="screen shot 2017-08-28 at 5 09 44 am" src="https://user-images.githubusercontent.com/23009481/29770089-eee23464-8bb2-11e7-9661-10ad20d4dc14.png"> 
 <img width="1680" alt="screen shot 2017-08-28 at 5 10 18 am" src="https://user-images.githubusercontent.com/23009481/29770090-eee32748-8bb2-11e7-940a-61c32cc31b20.png">
 
 -------------------------------------------------------
-Pre requisites:
-1. Node-red installed
-2. Connection to Empa NEST MSSQL DB
-Modules in node-red:
-1. Node-red-contrib-mssql
-2. Node-red-contrib-opcua
-3. node-red-dashboard
+Pre requisites:  
+1. Node-red installed  
+2. Connection to Empa NEST MSSQL DB  
+Modules in node-red:    
+1. Node-red-contrib-mssql  
+2. Node-red-contrib-opcua  
+3. node-red-dashboard  
 
 -------------------------------------------------------
-Work Done:
-Display of Individual Signal Tab
-Display of all the signals involving Weather Station
-Display of selective live OPC UA signals in Live Dashboard
+Work Done:  
+Display of Individual Signal Tab  
+Display of all the signals involving Weather Station  
+Display of selective live OPC UA signals in Live Dashboard  
 
-Work Left :
-Addition of further signals to Individual Signal Tab
-Cumulating signal groups as done in Weather Station
-Adding more signals to Live Dashboard
+Work Left :  
+Addition of further signals to Individual Signal Tab  
+Cumulating signal groups as done in Weather Station  
+Adding more signals to Live Dashboard  
  
 --------------------------------------------------------
 
