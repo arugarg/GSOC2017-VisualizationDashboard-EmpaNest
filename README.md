@@ -1,5 +1,5 @@
 
-Google Summer of Code 2017 : Project Repository , Database Visualization Dashboard for Urban Energy Systems Laboratory, Empa
+Google Summer of Code 2017 : Project Repository : Database Visualization Dashboard for Urban Energy Systems Laboratory, Empa
 Project Title : Visualization Dashboard for Empa-NEST
 Mentors : Fricker Reto , Philipp Heer
 By : Arushee Garg
@@ -17,8 +17,8 @@ Node Red is a recent programming tool developed by IBM for wiring together hardw
 ---------------------------------------------------------
 The Dashboard can be accessed at the local where node-red runs or at http://192.168.223.70:1880/ui/#/0
 
-![Settings Window](https://raw.github.com/arugarg/GSOC2017-VisualizationDashboard-EmpaNest/resources/images/IndividualSignal.png)
-![Weather Station](/relative/path/to/img.jpg?raw=true "Weather Station")
+<img width="1678" alt="screen shot 2017-08-28 at 5 09 44 am" src="https://user-images.githubusercontent.com/23009481/29770089-eee23464-8bb2-11e7-9661-10ad20d4dc14.png">
+<img width="1680" alt="screen shot 2017-08-28 at 5 10 18 am" src="https://user-images.githubusercontent.com/23009481/29770090-eee32748-8bb2-11e7-940a-61c32cc31b20.png">
 
 -------------------------------------------------------
 Pre requisites:
