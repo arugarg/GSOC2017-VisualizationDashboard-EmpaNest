@@ -17,9 +17,17 @@ Node Red is a recent programming tool developed by IBM for wiring together hardw
 ---------------------------------------------------------
 The Dashboard can be accessed at the local where node-red runs or at http://192.168.223.70:1880/ui/#/0
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Individual Signal](/relative/path/to/img.jpg?raw=true "Individual Signal")
+![Weather Station](/relative/path/to/img.jpg?raw=true "Weather Station")
+
+-------------------------------------------------------
+Pre requisites:
+1. Node-red installed
+2. Connection to Empa NEST MSSQL DB
+Modules in node-red:
+1. Node-red-contrib-mssql
+2. Node-red-contrib-opcua
+3. node-red-dashboard
 
 -------------------------------------------------------
 Work Done:
@@ -33,6 +41,4 @@ Cumulating signal groups as done in Weather Station
 Adding more signals to Live Dashboard
  
 --------------------------------------------------------
-
-
 
