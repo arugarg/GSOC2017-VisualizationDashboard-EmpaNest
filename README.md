@@ -1,7 +1,7 @@
 
 Google Summer of Code 2017 : Project Repository   
 Organization : Urban Energy Systems Laboratory,Empa    
-Project Title : Open Source Visualization Dashboard for Empa-NEST using Node-Red  
+Project : Open Source Visualization Dashboard for Empa-NEST using Node-Red  
 Mentors : Fricker Reto , Philipp Heer  
 By : Arushee Garg  
 ----------------------------------------------------------
@@ -19,6 +19,7 @@ The Dashboard can be accessed at the local where node-red runs or at http://192.
 
 <img width="1678" alt="screen shot 2017-08-28 at 5 09 44 am" src="https://user-images.githubusercontent.com/23009481/29770089-eee23464-8bb2-11e7-9661-10ad20d4dc14.png"> 
 <img width="1680" alt="screen shot 2017-08-28 at 5 10 18 am" src="https://user-images.githubusercontent.com/23009481/29770090-eee32748-8bb2-11e7-940a-61c32cc31b20.png">
+<img width="1680" alt="screen shot 2017-08-28 at 4 10 21 am" src="https://user-images.githubusercontent.com/23009481/29770398-8773a432-8bb4-11e7-971b-e66dbdf7f7d5.png">
 
 -------------------------------------------------------
 Pre requisites:  
