@@ -17,7 +17,7 @@ Node Red is a recent programming tool developed by IBM for wiring together hardw
 ---------------------------------------------------------
 The Dashboard can be accessed at the local where node-red runs or at http://192.168.223.70:1880/ui/#/0
 
-![Alt text](/../GSOC2017-VisualizationDashboard-EmpaNest/resources/images/IndividualSignal.png?raw=true "Individual Signal")
+![Alt text](https://raw.github.com/arugarg/GSOC2017-VisualizationDashboard-EmpaNest/resources/images/IndividualSignal.png?raw=true "Individual Signal")
 ![Weather Station](/relative/path/to/img.jpg?raw=true "Weather Station")
 
 -------------------------------------------------------
