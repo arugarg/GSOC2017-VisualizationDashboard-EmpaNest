@@ -1,5 +1,5 @@
 
-# Google Summer of Code 2017 : Project Repository , Database Visualization Dashboard for Urban Energy Systems Laboratory, Empa
+Google Summer of Code 2017 : Project Repository , Database Visualization Dashboard for Urban Energy Systems Laboratory, Empa
 Project Title : Visualization Dashboard for Empa-NEST
 Mentors : Fricker Reto , Philipp Heer
 By : Arushee Garg
