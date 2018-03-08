@@ -1,0 +1,25 @@
+{
+  "name": "empa-visual-opc",
+  "version": "1.0.0",
+  "description": "Google Summer of Code 2017 : Project Repository   \r Organization : Urban Energy Systems Laboratory,Empa    \r Project : Open Source Visualization Dashboard for Empa-NEST using Node-Red  \r Mentors : Fricker Reto , Philipp Heer  \r By : Arushee Garg  \r ----------------------------------------------------------\r Github Link : https://github.com/arugarg/GSOC2017-VisualizationDashboard-EmpaNest  \r ----------------------------------------------------------\r Introduction",
+  "main": "settings.js",
+  "dependencies": {
+    "node-red": "^0.18.4",
+    "node-red-contrib-mssql": "^0.0.7",
+    "node-red-contrib-opcua": "^0.2.16"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arugarg/GSOC2017-VisualizationDashboard-EmpaNest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arugarg/GSOC2017-VisualizationDashboard-EmpaNest/issues"
+  },
+  "homepage": "https://github.com/arugarg/GSOC2017-VisualizationDashboard-EmpaNest#readme"
+}
